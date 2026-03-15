@@ -17,6 +17,7 @@ NewsPulse is an AI-powered project that collects global news data, processes it,
 - Streamlit
 
 ## Project Files
+- Infosys_Springboard_Milestones.ipynb
 - app.py
 - news_with_sentiment.csv
 - requirements.txt
